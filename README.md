@@ -1,3 +1,3 @@
 # mlflowtracking
 
-MLFlow tracking using Dagsshub Open Source Collaboration
+MLFlow tracking using Dagshub Open Source Collaboration
